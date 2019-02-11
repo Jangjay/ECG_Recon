@@ -1,4 +1,4 @@
-from matplotlib import pyplot as plt
+﻿from matplotlib import pyplot as plt
 from tensorflow.contrib import rnn
 import matplotlib.pyplot as plt
 import tensorflow as tf
@@ -127,5 +127,5 @@ with tf.Session() as sess:
 # plt.plot(y_pred[0,:,0], "r", markersize=10, label="prediction")
 # plt.legend(loc="upper left")
 # plt.xlabel("Time")
-
+# 추가된 1줄 
 # plt.show()
