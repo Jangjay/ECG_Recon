@@ -9,7 +9,7 @@ import math
 import time
 import progressbar
 
-#
+# git test 
 # save_file = './lead1.ckpt'
 ###########DATA LOAD#####################
 
